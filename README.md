@@ -67,6 +67,8 @@ Conclusion :
 
 The Interactive Quiz Application showcases how effective and interactive web applications can be built using just HTML and CSS. It serves as a great project for beginners to understand the fundamentals of web development and UI design. The simplicity of the design, combined with interactive features, makes it a useful and reusable learning tool for various domains.
 
-OUTPUT:
+**OUTPUT:**
+
+
 ![Image](https://github.com/user-attachments/assets/e18d9975-eb16-4b63-9a64-be3b9354b3b7)
 
